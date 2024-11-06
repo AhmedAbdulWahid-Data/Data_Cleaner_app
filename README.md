@@ -58,14 +58,14 @@ The application:
    Upload a CSV or Excel file. The app verifies the file format and reads the data.
 
 2. **Duplicate Detection**  
-   The app checks for duplicate rows, saves them in a separate file (`{dataset_name}_duplicates.csv`), and removes them from the main dataset.
+   The app checks for duplicate rows, saves them in a separate file (`XYZ.csv`), and removes them from the main dataset.
 
 3. **Handle Missing Values**  
    - For numeric columns: Fills missing values with the mean of the respective column.
    - For non-numeric columns: Removes rows containing missing values.
 
 4. **Export Clean Data**  
-   After cleaning, the dataset is saved as `name.csv` and made available for download.
+   After cleaning, the dataset is saved as `XYZ.csv` and made available for download.
 
 5. **Testing & Performance**  
    The app has been tested on datasets with over 10,000 rows, handling large datasets in seconds without errors. It performs reliably in both standalone and Jupyter Notebook environments.
