@@ -20,15 +20,21 @@ The application:
 - **User-Friendly**: Clear prompts guide users through the process step-by-step.
 - **Multiple Format Support**: Handles both CSV and Excel files seamlessly.
 
-## Project Requirements
+## Skills Required
 
-- Python 3.x
-- Pandas
-- Numpy
-- Openpyxl
-- Xlrd (for Excel files)
-- OS library
-- Streamlit (for interactive UI)
+### Technical Skills:
+- **Python 3.x**: For writing the data cleaning logic.
+- **Pandas**: To handle data manipulation and cleaning.
+- **NumPy**: For numerical operations like calculating the mean of columns.
+- **Streamlit**: To create the interactive UI for file upload and data cleaning.
+- **OS Library**: To manage file operations and system paths.
+
+### Soft Skills:
+- **Attention to Detail**: Ensuring accurate cleaning of data, such as correctly handling duplicates and missing values.
+- **Problem Solving**: Identifying data issues and finding effective solutions, like filling missing numeric values or removing invalid entries.
+- **Communication**: Providing clear and concise user prompts and messages to guide users through the process.
+- **Time Management**: Ensuring the data cleaning process is completed efficiently, even with large datasets.
+- **Adaptability**: The ability to adapt to different data formats and handle various data types appropriately.
 
 ## Objectives
 
