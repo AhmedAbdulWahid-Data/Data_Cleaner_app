@@ -65,7 +65,7 @@ The application:
    - For non-numeric columns: Removes rows containing missing values.
 
 4. **Export Clean Data**  
-   After cleaning, the dataset is saved as `{dataset_name}_Clean_data.csv` and made available for download.
+   After cleaning, the dataset is saved as `name.csv` and made available for download.
 
 5. **Testing & Performance**  
    The app has been tested on datasets with over 10,000 rows, handling large datasets in seconds without errors. It performs reliably in both standalone and Jupyter Notebook environments.
