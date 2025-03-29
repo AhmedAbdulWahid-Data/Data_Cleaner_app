@@ -2,6 +2,9 @@
 
 **Data Cleaning Master** is a Python-based application designed to clean datasets efficiently. It handles duplicates, missing values, and ensures clean output in seconds. This tool is highly performant, user-friendly, and tested on large datasets to ensure accuracy and speed. It’s particularly useful in the early stages of data analysis or machine learning projects, where data quality is crucial to building reliable models and insights.
 
+## You can download my guide on clean coding 👉 [Here! 📂](https://github.com/user-attachments/files/19521950/Clean.Code.pdf)
+
+
 ---
 
 https://github.com/user-attachments/assets/02b33e6b-def3-4882-8e66-2c2ab3466be4
